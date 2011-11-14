@@ -2,6 +2,10 @@ body {
 	padding-top: 60px;
 }
 
+.sidebar ul li {
+	margin: 0px 0px 10px;
+}
+
 .sidebar li {
 	list-style: none;
 }
